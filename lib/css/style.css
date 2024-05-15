@@ -228,7 +228,7 @@ footer {
     margin-bottom: 3%;
     margin-right: 3%;
     margin-left: 3%;
-	background-color:#fafafa;
+	background-color:#dcdcdc;
 }
 
 .nine_section_wrapper{
@@ -1287,7 +1287,7 @@ body {
   line-height: 1.2;
   width: 100%;
   min-height: 100vh;
-  background: #fafafa;
+  background: #dcdcdc;
   
   justify-content: center;
   align-items: center;
